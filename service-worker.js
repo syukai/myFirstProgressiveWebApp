@@ -15,23 +15,23 @@
 var dataCacheName = 'weatherData-v1';
 var cacheName = 'weatherPWA-step-7-1';
 var filesToCache = [
-    '/',
-    '/index.html',
-    '/scripts/app.js',
-    '/styles/inline.css',
-    '/images/clear.png',
-    '/images/cloudy-scattered-showers.png',
-    '/images/cloudy.png',
-    '/images/fog.png',
-    '/images/ic_add_white_24px.svg',
-    '/images/ic_refresh_white_24px.svg',
-    '/images/partly-cloudy.png',
-    '/images/rain.png',
-    '/images/scattered-showers.png',
-    '/images/sleet.png',
-    '/images/snow.png',
-    '/images/thunderstorm.png',
-    '/images/wind.png'
+    '/myFirstProgressiveWebApp/',
+    '/myFirstProgressiveWebApp/index.html',
+    '/myFirstProgressiveWebApp/scripts/app.js',
+    '/myFirstProgressiveWebApp/styles/inline.css',
+    '/myFirstProgressiveWebApp/images/clear.png',
+    '/myFirstProgressiveWebApp/images/cloudy-scattered-showers.png',
+    '/myFirstProgressiveWebApp/images/cloudy.png',
+    '/myFirstProgressiveWebApp/images/fog.png',
+    '/myFirstProgressiveWebApp/images/ic_add_white_24px.svg',
+    '/myFirstProgressiveWebApp/images/ic_refresh_white_24px.svg',
+    '/myFirstProgressiveWebApp/images/partly-cloudy.png',
+    '/myFirstProgressiveWebApp/images/rain.png',
+    '/myFirstProgressiveWebApp/images/scattered-showers.png',
+    '/myFirstProgressiveWebApp/images/sleet.png',
+    '/myFirstProgressiveWebApp/images/snow.png',
+    '/myFirstProgressiveWebApp/images/thunderstorm.png',
+    '/myFirstProgressiveWebApp/images/wind.png'
     ];
 
 self.addEventListener('install', function(e) {
